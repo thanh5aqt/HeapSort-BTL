@@ -1,0 +1,7 @@
+.chart {
+    -fx-background-color: #000000;
+}
+
+.chart-plot-background {
+    -fx-background-color: transparent;
+}
